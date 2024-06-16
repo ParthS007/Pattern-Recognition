@@ -1,0 +1,5 @@
+Pattern Recognition
+
+A hands-on introduction to modern pattern recognition is provided. The process begins with the training of two intuitive classifiers—a perceptron and a kNN classifier—to recognize digits. To determine which classifier is superior, the concept of "better" must be defined, leading to the introduction of "generalization." To discuss generalization, a probabilistic framework in which modern pattern recognition resides is built. From this point, the plan becomes clear: probabilistic descriptions of data (i.e., the knowledge) are assumed to be given, and optimal classifiers are derived.
+
+Supervised learning from training samples is then addressed, including linear classification and regression, and feature design, particularly the multiscale or spectral perspective, which has seen significant success in images, audio, text, etc., and has beautiful connections to physics. Probabilistic models are applied to problems in image restoration, such as denoising, demosaicking, and deblurring. Segmentation is also explored. Feature design is ultimately eschewed in favor of deep neural networks.
